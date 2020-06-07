@@ -77,8 +77,7 @@ body {
   justify-content: space-between; }
 
 .hotel-view {
-  flex: 1;
-  height: 80rem; }
+  flex: 1; }
 
 .logo {
   height: 3.25rem;
@@ -272,3 +271,21 @@ body {
   100% {
     transform: scale(1);
     box-shadow: none; } }
+
+.detail {
+  display: flex;
+  padding: 4.5rem;
+  background-color: var(--color-Grey-light-1);
+  border-bottom: 1px solid var(--color-Grey-light-2); }
+
+.description {
+  background-color: #fff;
+  box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.06);
+  flex: 0 0 60%;
+  padding: 3rem;
+  margin-right: 4.5rem;
+  font-size: 1.4rem; }
+
+.user-reviews {
+  background-color: green;
+  flex: 1; }
