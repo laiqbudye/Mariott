@@ -1,6 +1,7 @@
 # Mariott
 
-## Live Demo:- https://mariott-hotel-website.firebaseapp.com/   OR
+## Live Demo:- 
+https://mariott-hotel-website.firebaseapp.com/   OR
 https://tinyurl.com/mariott-hotel
 
 # To Run
